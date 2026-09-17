@@ -45,7 +45,7 @@ ____________________________________________________________________________
 ### 1. Clone the repository
 ```
 
-https://github.com/Piyush-Aggarwal-github/DigitalNotepad.git
+https://github.com/Parvp18/ExpenseTracker.git
 ```
 
 ### 2. Compile the source files
